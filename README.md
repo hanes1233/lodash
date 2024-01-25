@@ -5,5 +5,5 @@ My implementation of some interesting methods from lodash library.
 
 ## Technologies used 
 
-+JavaScript
-+Visual Code Studio
++ JavaScript
++ Visual Code Studio
